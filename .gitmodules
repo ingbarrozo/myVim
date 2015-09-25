@@ -61,3 +61,9 @@
 [submodule "bundle/vim-airline"]
 	path = bundle/vim-airline
 	url = https://github.com/bling/vim-airline
+[submodule "bundle/gitaasdasd"]
+	path = bundle/gitaasdasd
+	url = ../../tpope/vim-git.git
+[submodule "uninstaller/minibufexpl"]
+	path = uninstaller/minibufexpl
+	url = ../../fholgado/minibufexpl.vim.git
